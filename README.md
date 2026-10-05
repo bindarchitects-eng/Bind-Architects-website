@@ -1,6 +1,6 @@
 # Studio Bind Architects — website redesign
 
-A complete Next.js App Router rebuild prepared for the Studio Bind Architects GitHub and Vercel accounts. The existing site at https://www.bindarchitects.com is on Wix. This source has not been pushed or deployed, and DNS has not been changed.
+A complete Next.js App Router rebuild prepared for the Studio Bind Architects GitHub and Vercel accounts. The existing site at https://www.bindarchitects.com is on Wix. Source is maintained in `bindarchitects-eng/Bind-Architects-website`. The Vercel destination is the Studio Bind **BIND ARCH** team. DNS cutover is separate from the initial Vercel deployment.
 
 ## Run
 
@@ -48,8 +48,8 @@ The published status and area for each project were imported from the current we
 
 ## Deployment handoff
 
-1. Create or expose a repository owned by `bindarchitects-eng`, the connected Studio Bind GitHub account. It returned no accessible repositories during this task.
-2. Connect Studio Bind's intended Vercel account/team. Only the personal Vercel team and the separate Bind Builds connection were exposed during this task; a Studio Bind destination was not available.
+1. Use the repository `bindarchitects-eng/Bind-Architects-website` and its `main` branch.
+2. Use the Studio Bind Vercel team **BIND ARCH** (`bind-arch`).
 3. Push this source to the repository and import it into Vercel with framework `Next.js`, Node.js `24.x`, build `npm run build`, output managed by Next.js. Use the project root.
 4. Keep `SITE_INDEXABLE=false` for preview. Set `NEXT_PUBLIC_SITE_URL=https://www.bindarchitects.com`.
 5. Check the Vercel preview with the owner: project status updates, contact details, social accounts, portfolio image/photographer permissions and the desired service coverage.

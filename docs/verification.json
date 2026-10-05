@@ -1,0 +1,389 @@
+{
+  "checkedAt": "2026-10-05T10:03:31.112Z",
+  "routes": [
+    {
+      "route": "/",
+      "status": 200
+    },
+    {
+      "route": "/architects-in-chennai",
+      "status": 200
+    },
+    {
+      "route": "/architects-in-coimbatore",
+      "status": 200
+    },
+    {
+      "route": "/architects-in-tamilnadu",
+      "status": 200
+    },
+    {
+      "route": "/architects-in-valasaravakkam",
+      "status": 200
+    },
+    {
+      "route": "/contact",
+      "status": 200
+    },
+    {
+      "route": "/faq",
+      "status": 200
+    },
+    {
+      "route": "/insights",
+      "status": 200
+    },
+    {
+      "route": "/insights/before-you-build-in-chennai",
+      "status": 200
+    },
+    {
+      "route": "/insights/design-fees-and-scope",
+      "status": 200
+    },
+    {
+      "route": "/insights/what-an-architect-actually-does",
+      "status": 200
+    },
+    {
+      "route": "/media",
+      "status": 200
+    },
+    {
+      "route": "/privacy",
+      "status": 200
+    },
+    {
+      "route": "/process",
+      "status": 200
+    },
+    {
+      "route": "/professional-standards",
+      "status": 200
+    },
+    {
+      "route": "/project/bind-office",
+      "status": 200
+    },
+    {
+      "route": "/project/buddha-courtyard",
+      "status": 200
+    },
+    {
+      "route": "/project/casa-grande-budget",
+      "status": 200
+    },
+    {
+      "route": "/project/casa-grande-luxe",
+      "status": 200
+    },
+    {
+      "route": "/project/ccbm",
+      "status": 200
+    },
+    {
+      "route": "/project/chettinadu-home",
+      "status": 200
+    },
+    {
+      "route": "/project/delphi-clinic",
+      "status": 200
+    },
+    {
+      "route": "/project/duplex-home-interior",
+      "status": 200
+    },
+    {
+      "route": "/project/east-west",
+      "status": 200
+    },
+    {
+      "route": "/project/flora-diamonds",
+      "status": 200
+    },
+    {
+      "route": "/project/gsmt",
+      "status": 200
+    },
+    {
+      "route": "/project/kazhinadu-cafe",
+      "status": 200
+    },
+    {
+      "route": "/project/man-cave",
+      "status": 200
+    },
+    {
+      "route": "/project/moksha-bar",
+      "status": 200
+    },
+    {
+      "route": "/project/prabhakaran-luxury-interior",
+      "status": 200
+    },
+    {
+      "route": "/project/remy-cinemas",
+      "status": 200
+    },
+    {
+      "route": "/project/sk's-residence",
+      "status": 200
+    },
+    {
+      "route": "/project/srishti",
+      "status": 200
+    },
+    {
+      "route": "/project/ttdc",
+      "status": 200
+    },
+    {
+      "route": "/project/vedya-speciality-clinic",
+      "status": 200
+    },
+    {
+      "route": "/services",
+      "status": 200
+    },
+    {
+      "route": "/services/architecture",
+      "status": 200
+    },
+    {
+      "route": "/services/commercial-interiors",
+      "status": 200
+    },
+    {
+      "route": "/services/healthcare-design",
+      "status": 200
+    },
+    {
+      "route": "/services/interior-design",
+      "status": 200
+    },
+    {
+      "route": "/studio",
+      "status": 200
+    },
+    {
+      "route": "/why-an-architect",
+      "status": 200
+    },
+    {
+      "route": "/works",
+      "status": 200
+    }
+  ],
+  "responsive": [
+    {
+      "route": "/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 375,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 1024,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 1920,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 2560,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/works",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/works",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/works",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/faq",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/faq",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/faq",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/contact",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/contact",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/contact",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/services/architecture",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/services/architecture",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/services/architecture",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/project/duplex-home-interior",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/project/duplex-home-interior",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/project/duplex-home-interior",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/architects-in-coimbatore",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/architects-in-coimbatore",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/architects-in-coimbatore",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/professional-standards",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "route": "/professional-standards",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "route": "/professional-standards",
+      "width": 1440,
+      "overflow": false
+    }
+  ],
+  "accessibility": [
+    {
+      "route": "/",
+      "violations": []
+    },
+    {
+      "route": "/works",
+      "violations": []
+    },
+    {
+      "route": "/faq",
+      "violations": []
+    },
+    {
+      "route": "/contact",
+      "violations": []
+    },
+    {
+      "route": "/services/architecture",
+      "violations": []
+    },
+    {
+      "route": "/project/duplex-home-interior",
+      "violations": []
+    },
+    {
+      "route": "/architects-in-coimbatore",
+      "violations": []
+    },
+    {
+      "route": "/professional-standards",
+      "violations": []
+    }
+  ],
+  "journeys": [
+    "43 content routes, canonicals, JSON-LD, preview indexing protection, 308 redirects and 404 handling",
+    "Manual hero project selector and interactive design layers",
+    "Mobile menu, Escape dismissal, focus return and route change",
+    "Project filters: 20 total, 2 healthcare",
+    "FAQ search, expanded answers and empty-state recovery",
+    "Brief validation, 3 stages, edit persistence, correct WhatsApp/email drafts; no enquiry sent",
+    "Reduced-motion support"
+  ],
+  "browserErrors": [],
+  "finalTargetedRecheck": {
+    "scope": "Home decorative note-number contrast after correction",
+    "checkedAt": "2026-10-05T10:06:52.855Z",
+    "passed": true
+  },
+  "menuFocusReturns": true
+}
